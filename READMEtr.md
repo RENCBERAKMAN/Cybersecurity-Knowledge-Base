@@ -26,7 +26,6 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Hacker_Seviyesi-EFSANE-red?style=for-the-badge&logo=hackthebox" alt="Seviye"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Deneyim-30_YIL-blueviolet?style=for-the-badge&logo=codementor" alt="Deneyim"></a>
   <a href="#"><img src="https://img.shields.io/badge/Durum-AKTİF-brightgreen?style=for-the-badge" alt="Durum"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bakım-DEVAM_EDİYOR-success?style=for-the-badge" alt="Bakım"></a>
 </p>
