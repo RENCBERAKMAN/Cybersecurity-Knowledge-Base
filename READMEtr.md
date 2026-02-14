@@ -92,25 +92,6 @@ CyberSec-Knowledge-Arsenal/
 
 </div>
 
-### 📊 Detaylı Modül Dökümü
-
-| Modül | Odak Alanı | Seviye | Ana Konular |
-|-------|-----------|--------|-------------|
-| 🔰 **Temel** | Çekirdek Beceriler | Başlangıç → Orta | Linux yönetimi, TCP/IP derinlemesine, Bash/Python scripting |
-| 🌐 **Ağ Güvenliği** | Altyapı | Orta | VLAN, VPN, IDS/IPS, ağ segmentasyonu, SDN güvenliği |
-| 🕸️ **Web Güvenliği** | Uygulama Katmanı | Orta → İleri | SQLi, XSS, CSRF, JWT exploitation, API fuzzing |
-| ⚔️ **Ofansif Güvenlik** | Red Teaming | İleri | Metasploit ustalığı, C2 framework'leri, kaçınma teknikleri |
-| 📈 **Yetki Yükseltme** | Post-Compromise | İleri | Kernel exploit'leri, token manipülasyonu, yanlış yapılandırma istismarı |
-| 🏰 **Active Directory** | Kurumsal | İleri | Kerberoasting, DCSync, Golden Ticket'lar, forest trust'lar |
-| 🛡️ **Defansif Güvenlik** | Blue Teaming | Orta → İleri | Log analizi, tehdit avı, SOAR, playbook oluşturma |
-| 🦠 **Malware Analizi** | Tersine Mühendislik | İleri | Statik/dinamik analiz, unpacking, davranış izleme |
-| 🔍 **Dijital Adli Bilim** | Soruşturma | Orta → İleri | Bellek forensics, disk görüntüleme, zaman çizelgesi oluşturma |
-| ☁️ **Bulut Güvenliği** | Modern Altyapı | Orta | IAM yanlış yapılandırmaları, serverless güvenlik, container kaçışları |
-| 📱 **Mobil Güvenlik** | Mobil Platformlar | Orta | APK tersine mühendislik, iOS jailbreak tespit atlatma |
-| 🔐 **Kriptografi** | Temel Matematik | Orta | AES, RSA, eliptik eğriler, yan kanal saldırıları |
-| 📋 **GRC Uyumluluk** | Yönetişim | Başlangıç → Orta | ISO 27001, NIST, PCI-DSS, SOC 2 |
-| 🚩 **CTF Çözümleri** | Challenge Çözümleri | Tüm Seviyeler | HackTheBox, TryHackMe, OSCP-tarzı makineler |
-| 🛠️ **Özel Araçlar** | Otomasyon | İleri | Kendi geliştirdiğim exploit'ler, keşif scriptleri, API entegrasyonları |
 
 ---
 
