@@ -130,10 +130,6 @@ Dalış yapmadan önce şunlara sahip olduğunuzdan emin olun:
 
 ### 2\. İndirme Komutları (Klonlama)
 
-Repo ismini ve kullanıcı adını düzelttim.
-
-**Bunu "📥 Cephaneliği Klonla" kısmına yapıştır:**
-
 ```bash
 # Depoyu klonla
 git clone https://github.com/rencberakman/Cybersecurity-Knowledge-Base.git
@@ -227,9 +223,6 @@ git push origin feature/yeni-teknik
 
 ## 📡 BAĞLANTI: Döngüde Kal
 
-
-## 📡 BAĞLANTI: Döngüde Kal
-
 <div align="center">
 
 | Platform | Link | Amaç |
@@ -296,13 +289,10 @@ Bilgilerini özgürce paylaşan her Red Teamer, Blue Teamer, Bug Bounty Hunter v
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║  "Sıfırlar ve birlerin dünyasında, bilgi en büyük exploit'tir."           ║
-║                                                                           ║
-║                                                                           ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+
+"Sıfırlar ve birlerin dünyasında, bilgi en büyük exploit'tir."           
+
+
 ```
 
 **⭐ Bu depo size yardımcı oluyorsa, yıldızlamayı düşünün!**
