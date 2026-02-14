@@ -53,32 +53,6 @@
 
 </div>
 
-## 📜 MANIFESTO: Bu Depo Neden Var?
-
-```python
-class SiberGuvenlikYolculugu:
-    def __init__(self):
-        self.savas_yillari = 30
-        self.ogrenilen_dersler = "∞"
-        self.zihniyet = "Sürekli Öğrenme | Ofansif ⚔️ Defansif 🛡️"
-    
-    def felsefe(self):
-        return """
-        Güvenlik bir varış noktası değil. Sonsuz bir silahlanma yarışı.
-        
-        Otuz yıldır, bu dijital savaşın her iki tarafında da yürüdüm:
-        • Sistemleri nasıl çöküyor anlamak için kırmak
-        • Ağları, onları sömürmeye çalışanlara karşı savunmak
-        • Yeni nesle, düşman gibi düşünmeyi öğretmek
-        
-        Bu depo benim "İkinci Beynim"—yaşayan bir arşiv:
-        ✓ Savaş meydanında test edilmiş metodolojiler
-        ✓ Gerçek ihlallerden kazanılmış acı dersler
-        ✓ Red Team operasyonlarının ateşinde dövülmüş araçlar
-        ✓ Blue Team çatışmalarıyla rafine edilmiş savunma stratejileri
-        
-        Bilgiyi gizlemiyorum. Öğrenmeyi silahlandırıyorum.
-        """
 ```
 
 ### 🎯 **Misyon Beyanı**
