@@ -68,7 +68,9 @@ This repository serves **three masters**:
 
 <div align="center">
 
-```
+<div align="center">
+
+```text
 CyberSec-Knowledge-Arsenal/
 │
 ├─ 🔰 01_Foundations/                 # The bedrock: Linux, Networking, Scripting
@@ -86,29 +88,9 @@ CyberSec-Knowledge-Arsenal/
 ├─ 📋 13_GRC_Compliance/              # Governance, Risk, Compliance frameworks
 ├─ 🚩 14_CTF_Writeups/                # Capture The Flag solutions and methodologies
 └─ 🛠️ 15_My_Tools_and_Scripts/       # Custom tools, automation, productivity hacks
-```
 
 </div>
 
-### 📊 Detailed Module Breakdown
-
-| Module | Focus Area | Skill Level | Key Topics |
-|--------|-----------|-------------|------------|
-| 🔰 **Foundations** | Core Skills | Beginner → Intermediate | Linux administration, TCP/IP deep dive, Bash/Python scripting |
-| 🌐 **Network Security** | Infrastructure | Intermediate | VLANs, VPNs, IDS/IPS, network segmentation, SDN security |
-| 🕸️ **Web Security** | Application Layer | Intermediate → Advanced | SQLi, XSS, CSRF, JWT exploitation, API fuzzing |
-| ⚔️ **Offensive Security** | Red Teaming | Advanced | Metasploit mastery, C2 frameworks, evasion techniques |
-| 📈 **Privilege Escalation** | Post-Compromise | Advanced | Kernel exploits, token manipulation, misconfiguration abuse |
-| 🏰 **Active Directory** | Enterprise | Advanced | Kerberoasting, DCSync, Golden Tickets, forest trusts |
-| 🛡️ **Defensive Security** | Blue Teaming | Intermediate → Advanced | Log analysis, threat hunting, SOAR, playbook creation |
-| 🦠 **Malware Analysis** | Reverse Engineering | Advanced | Static/dynamic analysis, unpacking, behavior monitoring |
-| 🔍 **Digital Forensics** | Investigation | Intermediate → Advanced | Memory forensics, disk imaging, timeline reconstruction |
-| ☁️ **Cloud Security** | Modern Infrastructure | Intermediate | IAM misconfigurations, serverless security, container escapes |
-| 📱 **Mobile Security** | Mobile Platforms | Intermediate | APK reverse engineering, iOS jailbreak detection bypass |
-| 🔐 **Cryptography** | Foundational Math | Intermediate | AES, RSA, elliptic curves, side-channel attacks |
-| 📋 **GRC Compliance** | Governance | Beginner → Intermediate | ISO 27001, NIST, PCI-DSS, SOC 2 |
-| 🚩 **CTF Writeups** | Challenge Solutions | All Levels | HackTheBox, TryHackMe, OSCP-style machines |
-| 🛠️ **Custom Tools** | Automation | Advanced | Self-developed exploits, recon scripts, API integrations |
 
 ---
 
