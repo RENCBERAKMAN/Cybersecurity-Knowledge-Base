@@ -69,25 +69,26 @@ Bu depo **üç efendiye** hizmet eder:
 
 <div align="center">
 
-```
+<div align="center">
+
+```text
 CyberSec-Knowledge-Arsenal/
 │
-├─ 🔰 01_Foundations/                 # Temel: Linux, Ağ, Scripting
-├─ 🌐 02_Network_Security/            # Paketler, protokoller ve altyapı savaşı
-├─ 🕸️ 03_Web_Security/                # OWASP Top 10, API güvenliği, modern web sömürüsü
-├─ ⚔️ 04_Offensive_Security/          # Red Team operasyonları, exploitation, post-exploitation
-├─ 📈 05_Privilege_Escalation/        # Kullanıcıdan root'a, iş istasyonundan domain admin'e
-├─ 🏰 06_Active_Directory_Security/   # Krallığın anahtarları: Kerberos, LDAP, GPO saldırıları
-├─ 🛡️ 07_Defensive_Security_SOC/     # Blue Team playbook'ları, SIEM, tehdit avı
-├─ 🦠 08_Malware_Analysis_RE/         # Kötü amaçlı kodun tersine mühendisliği
-├─ 🔍 09_Digital_Forensics_DFIR/      # Olay müdahalesi ve adli soruşturmalar
-├─ ☁️ 10_Cloud_Security/              # AWS, Azure, GCP güvenlik mimarileri
-├─ 📱 11_Mobile_Security/             # iOS, Android, mobil uygulama penetrasyon testi
-├─ 🔐 12_Cryptography/                # Güvenliğin matematiksel temelleri
-├─ 📋 13_GRC_Compliance/              # Yönetişim, Risk, Uyumluluk çerçeveleri
-├─ 🚩 14_CTF_Writeups/                # Capture The Flag çözümleri ve metodolojileri
-└─ 🛠️ 15_My_Tools_and_Scripts/       # Özel araçlar, otomasyon, verimlilik hileleri
-```
+├─ 🔰 01_Temeller/                    # Temel taş: Linux, Ağ Oluşturma, Betikleme
+├─ 🌐 02_Ağ_Güvenliği/                # Paketler, protokoller ve altyapı savaşı
+├─ 🕸️ 03_Web_Güvenliği/               # OWASP İlk 10, API güvenliği, modern web istismarı
+├─ ⚔️ 04_Saldırı_Güvenliği/           # Kırmızı Takım operasyonları, istismar, istismar sonrası
+├─ 📈 05_Ayrıcalık_Yükseltme/         # Kullanıcıdan root'a, iş istasyonundan etki alanı yöneticisine
+├─ 🏰 06_Active_Dizin_Güvenliği/      # Krallığın anahtarları: Kerberos, LDAP, GPO saldırıları
+├─ 🛡️ 07_Savunma_Güvenliği_SOC/       # Mavi Takım kılavuzları, SIEM, tehdit avcılığı
+├─ 🦠 08_Kötü_Amaçlı_Yazılım_Analizi_RE/ # Kötü amaçlı kodun tersine mühendisliği
+├─ 🔍 09_Dijital_Adli_Bilgiler_DFIR/  # Olay müdahalesi ve adli soruşturmalar
+├─ ☁️ 10_Bulut_Güvenliği/             # AWS, Azure, GCP güvenlik mimarileri
+├─ 📱 11_Mobil_Güvenlik/              # iOS, Android, mobil uygulama sızma testleri
+├─ 🔐 12_Kriptografi/                 # Güvenliğin matematiksel temelleri
+├─ 📋 13_GRC_Uyumluluğu/              # Yönetişim, Risk, Uyumluluk çerçeveleri
+├─ 🚩 14_CTF_Yazıları/                # Bayrak Yakalama çözümleri ve metodolojileri
+└─ 🛠️ 15_Araçlarım_ve_Komut_Dosyalarım/ # Özel araçlar, otomasyon, verimlilik ipuçları
 
 </div>
 
