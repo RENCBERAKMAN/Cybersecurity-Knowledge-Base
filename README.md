@@ -26,7 +26,6 @@
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Hacker_Rank-ELITE-red?style=for-the-badge&logo=hackthebox" alt="Rank"></a>
-<a href="#"><img src="https://img.shields.io/badge/Focus-OFFENSIVE_&_DEFENSIVE-blueviolet?style=for-the-badge&logo=kalilinux" alt="Experience"></a>
 <a href="#"><img src="https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge" alt="Status"></a>
 <a href="#"><img src="https://img.shields.io/badge/Maintained-YES-success?style=for-the-badge" alt="Maintained"></a>
 </p>
