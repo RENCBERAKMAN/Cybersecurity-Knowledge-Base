@@ -312,9 +312,9 @@ Special thanks to every Red Teamer, Blue Teamer, Bug Bounty Hunter, and Security
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║  "In the world of zeros and ones, knowledge is the ultimate exploit."   ║
+║  "In the world of zeros and ones, knowledge is the ultimate exploit."     ║
 ║                                                                           ║
-║                    — 30 Years in the Trenches                            ║
+║                    — 30 Years in the Trenches                             ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
